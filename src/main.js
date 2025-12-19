@@ -1,7 +1,3 @@
-// import { gsap } from "../node_modules/gsap/index.js";
-// import { SplitText } from "../node_modules/gsap/SplitText.js";
-// import { ScrollTrigger } from "../node_modules/gsap/ScrollTrigger.js";
-
 document.addEventListener("DOMContentLoaded", (event) => {
   gsap.registerPlugin(ScrollTrigger, SplitText);
 
