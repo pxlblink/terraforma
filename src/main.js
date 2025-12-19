@@ -1,6 +1,6 @@
-import { gsap } from "../node_modules/gsap/index.js";
-import { SplitText } from "../node_modules/gsap/SplitText.js";
-import { ScrollTrigger } from "../node_modules/gsap/ScrollTrigger.js";
+// import { gsap } from "../node_modules/gsap/index.js";
+// import { SplitText } from "../node_modules/gsap/SplitText.js";
+// import { ScrollTrigger } from "../node_modules/gsap/ScrollTrigger.js";
 
 const humburgerMenu = document.getElementsByClassName(
   "header__hamburger-wrapper",
